@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bukkereddiswapna/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0371-sum-of-two-integers](https://github.com/bukkereddiswapna/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bukkereddiswapna/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/bukkereddiswapna/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 ## Union-Find
 |  |
 | ------- |
